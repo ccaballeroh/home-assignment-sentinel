@@ -6,7 +6,7 @@
 conda env create --file sentinel.yml
 ```
 
-1. Or if using Windows:
+2. Or if using Windows:
 
 ```
 conda create --name sentinel --file pkgs.txt
