@@ -32,7 +32,7 @@ The code in this repository is for an environment with CPU only for ease of repr
 
 # Clustering
 
-In this (notebook)[./Clustering.ipynb], spaCy takes care of the lemmatization and tokenization of the texts. For this, we need to download a model first.
+In this [notebook](./Clustering.ipynb), spaCy takes care of the lemmatization and tokenization of the texts. For this, we need to download a model first.
 
 ```
 python -m spacy download en_core_web_sm
