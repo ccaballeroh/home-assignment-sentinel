@@ -1,4 +1,10 @@
 data/*
 .vscode
+.ipynb_checkpoints
+.mypy_cache
+chache_dir
+runs
+outputs/*.bin
+outputs/checkpoint*
 Instructions.pdf
 Requirements.png
