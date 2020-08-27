@@ -1,3 +1,7 @@
+# Disinformation news classification
+
+This repository holds the code to train a disinformation vs real news text classifier. The data is expected on a folder named `data`, which is not included in the repository. 
+
 ## Instructions
 
 1. To reproduce the environment using Anaconda run the following command in an Anaconda Prompt after cloning or downloading this repository and changing directories inside of it.
@@ -23,5 +27,5 @@ The code in this repository is for an environment with CPU only for ease of repr
 
 ## Deployment
 
-* The trained model is saved to the `outputs` folder with the name `pytorch_model.bin` after training. The model is not commited to the repository due to its size so it is necessary to run the notebook. The last section of the notebook presents the way to predict the value of an arbitrary news title.
+* The trained model is saved to the `outputs` folder with the name `pytorch_model.bin` after training under the checkpoints folder. The model is not commited to the repository due to its size so it is necessary to run the notebook. The last section of the notebook presents the way to predict the value of an arbitrary news title.
 
