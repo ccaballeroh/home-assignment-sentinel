@@ -29,3 +29,13 @@ The code in this repository is for an environment with CPU only for ease of repr
 
 * The trained model is saved to the `outputs` folder with the name `pytorch_model.bin` after training under the checkpoints folder. The model is not commited to the repository due to its size so it is necessary to run the notebook. The last section of the notebook presents the way to predict the value of an arbitrary news title.
 
+
+# Clustering
+
+In this (notebook)[./Clustering.ipynb], spaCy takes care of the lemmatization and tokenization of the texts. For this, we need to download a model first.
+
+```
+python -m spacy download en_core_web_sm
+```
+
+
