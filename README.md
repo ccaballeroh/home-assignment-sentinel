@@ -21,3 +21,7 @@ The code in this repository is for an environment with CPU only for ease of repr
 
 * Secondly, a transformer-based Language Model is fine-tuned in a text classification task in [Classification](./Classification.ipynb).
 
+## Deployment
+
+* The trained model is saved to the `outputs` folder with the name `pytorch_model.bin` after training. The model is not commited to the repository due to its size so it is necessary to run the notebook. The last section of the notebook presents the way to predict the value of an arbitrary news title.
+
