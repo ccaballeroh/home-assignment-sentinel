@@ -2,7 +2,7 @@ data/*
 .vscode
 .ipynb_checkpoints
 .mypy_cache
-chache_dir
+cache_dir
 runs
 outputs/*.bin
 outputs/checkpoint*
