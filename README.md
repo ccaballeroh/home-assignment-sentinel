@@ -17,7 +17,7 @@ The code in this repository is for an environment with CPU only for ease of repr
 
 ## Notebooks
 
-* First an Exploratory data analysis of the texts is presented in [EDA](./EDA.ipynb).
+* First an exploratory data analysis of the texts is presented in [EDA](./EDA.ipynb).
 
 * Secondly, a transformer-based Language Model is fine-tuned in a text classification task in [Classification](./Classification.ipynb).
 
