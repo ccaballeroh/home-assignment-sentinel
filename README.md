@@ -38,4 +38,8 @@ In this [notebook](./Clustering.ipynb), spaCy takes care of the lemmatization an
 python -m spacy download en_core_web_sm
 ```
 
+# Proposal
+
+For the document of the proposal, see [this](./Proposal.md).
+
 
