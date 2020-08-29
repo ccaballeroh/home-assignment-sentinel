@@ -40,6 +40,6 @@ python -m spacy download en_core_web_sm
 
 # Proposal
 
-For the document of the proposal, see [this](./Proposal.md).
+For the document of the proposal, see [this](./Proposal.md) inside GitHub or the [PDF](./Proposal.pdf) version of it.
 
 
