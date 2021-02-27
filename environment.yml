@@ -15,4 +15,5 @@ dependencies:
   - nb_conda_kernels
   - pip:
     - simpletransformers==0.47.3
+    - transformers==3.0.2
     - wandb==0.9.5
